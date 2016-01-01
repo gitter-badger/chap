@@ -1,6 +1,8 @@
 CHAP - ConoHa API for PHP
 ===
 
+[![Join the chat at https://gitter.im/keika299/chap](https://badges.gitter.im/keika299/chap.svg)](https://gitter.im/keika299/chap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 CHAP は ConoHa API のために作られた PHP 用ライブラリです。  
 API へ PHP から簡単に接続したいのであれば、このライブラリは最も適した方法です。 
 
